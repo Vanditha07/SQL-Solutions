@@ -1,0 +1,18 @@
+/*
+* Alright so we just saw how queries are made
+* Try to complete the following query by adding in the appropriate identifier where we have added comments
+*/
+
+Task:
+SELECT /* get the students id and name here */
+FROM Student;
+
+SELECT /* get all of students info here */
+FROM Student;
+
+Solution:
+SELECT id, firstName
+FROM Student;
+
+SELECT *
+FROM Student;

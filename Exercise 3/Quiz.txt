@@ -1,0 +1,39 @@
+Q1. What is the SELECT statement used for?
+options : 
+a. To create a database
+b. To SELECT data from a table
+c. To delete a data from database
+d. Make data available to all users
+Ans:  b. To SELECT data from a table
+
+Q2. Which of the following SELECT statements are correct?
+options : 
+a. SELECT * FROM student;
+b. SELECT ~ FROM student;
+c. SELECT * student;
+d. * FROM student;
+Ans: a. SELECT * FROM student;
+
+Q3. Which of the following SELECT statement are incorrect? (multiple)
+options:
+a. SELECT @ FROM student;
+b. FROM student SELECT first_name
+c. SELECT first_name FROM student;
+d. SELECT FROM student;
+Ans: a, b and d
+
+Q4. What is SQL?
+options:
+a. Both
+b. Imperative
+c. Declarative
+Ans: c. Declarative
+
+Q5. What does SQL stand for?
+options:
+a. Super Query Language
+b. Structured Query Loop
+c. Structured Query Language
+d. Solo Query Language
+Ans: c. Structured Query Language
+
