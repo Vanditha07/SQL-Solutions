@@ -1,0 +1,43 @@
+1. Is a DBMS vital to the relational model?
+a. yes
+b. No 
+Ans: a. yes
+
+2. What did the relational model replace? (multiple)
+a. The networking model
+b. The database model
+c. The marriage model
+d. The hierarchical model
+Ans: both a and d
+
+3. What identifier is used to uniquely identify a record
+a. A network key
+b. A primary key
+c. A foreign key
+d. A wifi key
+Ans: b. A primary key
+
+4. What is a tuple?
+a. Tulip spelled incorrectly
+b. An entire table of data
+c. A row of data
+Ans: c. A row of data
+
+5. What identifies the relationship between two pieces of data?
+a. A super key
+b. A primary key
+c. A foreign key
+Ans: c. A foreign key
+
+6. Which of the following statements is correct?
+a. FROM employee SELECT *
+b. SELECT * FROM employee;
+c. DO SELECT FROM employee GET first_name
+Ans: b. SELECT * FROM employee;
+
+7. How do we lock down what can be filled into a column? (multiple)
+a. Constraints
+b. Paying attention
+c. Having someone inspect every record that's inserted
+d. Datatypes
+Ans: both a and d

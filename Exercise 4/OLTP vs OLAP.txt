@@ -1,0 +1,4 @@
+1. A Database is being used to log orders and customers - OLTP
+2. A Database is being used to figure out what new products we should offer - OLAP
+3. A Database is being used to derive statistics for reporting to the executives - OLAP
+4. A Database is being used to keep track of logged in users - OLTP
