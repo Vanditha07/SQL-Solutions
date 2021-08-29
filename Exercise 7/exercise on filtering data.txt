@@ -1,0 +1,5 @@
+Q1. How many female customers do we have from the state of oregon (OR) and new york (NY)?
+Query:
+select count(customerid) from "customers" 
+where (state = 'NY' OR state = 'OR')
+and gender = 'F';
